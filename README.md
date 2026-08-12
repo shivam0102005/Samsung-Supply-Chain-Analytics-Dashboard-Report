@@ -41,8 +41,11 @@ This repository contains a comprehensive Power BI Business Intelligence (`.pbix`
         ├── RegisteredResources/        # Report Images, Icons & Theme JSONs
         └── SharedResources/
             └── BaseThemes/             # Primary UI/UX Theme (CY25SU11.json)
+```
 
-📊 Key Dashboards & Metrics Included
+
+
+## 📊 Key Dashboards & Metrics Included
 Inventory Management:
 
 Stock levels vs. Demand forecasting
@@ -59,28 +62,32 @@ Executive Summary:
 
 High-level overview of overall supply chain health and cost optimization areas
 
-⚙️ How to Use & Open
-Option 1: View/Edit in Power BI
-Download or clone this repository:
-Bash
+## ⚙️ How to Use & Open
+## Option 1: View/Edit in Power BI
+..>  Download or clone this repository:
+
+```
 git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+```
 
+..> Open sumsung.pbix directly using Power BI Desktop.
 
-Open sumsung.pbix directly using Power BI Desktop.
-
-Option 2: Inspect Source Files & Themes
+## Option 2: Inspect Source Files & Themes
 Theme definitions can be inspected under Report/StaticResources/SharedResources/BaseThemes/CY25SU11.json.
 
-Custom images and dashboard icons are stored in Report/StaticResources/RegisteredResources/.
+Custom images and dashboard icons are stored in Report/StaticResources/RegisteredResources/.  
 
-🤝 Contributing  
+## 🤝 Contributing  
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.  
 
-📜 License  
+## 📜 License  
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 ---
 
 ### Key Updates Added:
 * **Project Title & Context:** Identified as a **Samsung Supply Chain Analytics** Power BI report based on your `.pbix` data.
 * **Detailed Sections:** Added Overview, Supply Chain Insights, Inventory/Logistics KPIs, and Tech Stack (DAX, Power Query, Power BI).
 * **Project Specifics:** Replaced generic placeholders with actual project elements present in your file.
+
+
