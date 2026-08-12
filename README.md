@@ -90,4 +90,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * **Detailed Sections:** Added Overview, Supply Chain Insights, Inventory/Logistics KPIs, and Tech Stack (DAX, Power Query, Power BI).
 * **Project Specifics:** Replaced generic placeholders with actual project elements present in your file.
 
+## Output
+<img width="1894" height="964" alt="Screenshot 2026-08-12 105254" src="https://github.com/user-attachments/assets/1ae29af4-14ba-41d9-a5b3-27d72a25671e" />
 
